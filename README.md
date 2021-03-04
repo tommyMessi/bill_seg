@@ -18,13 +18,8 @@
 
 ## 可视化实例
 ### 例子🌰1
-![raw](https://github.com/tommyMessi/tableImageParser_tx/blob/master/tx_infer_data/vanke_2016_1241_nb_3.jpg)
-![nrow](https://github.com/tommyMessi/tableImageParser_tx/blob/master/tx_infer_data/nrow/vanke_2016_1241_nb_3.jpg)
-![ncol](https://github.com/tommyMessi/tableImageParser_tx/blob/master/tx_infer_data/ncol/vanke_2016_1241_nb_3.jpg)
-### 例子🌰2
-![raw](https://github.com/tommyMessi/tableImageParser_tx/blob/master/tx_infer_data/1.jpg)
-![row](https://github.com/tommyMessi/tableImageParser_tx/blob/master/tx_infer_data/row/1.jpg)
-![row](https://github.com/tommyMessi/tableImageParser_tx/tree/master/tx_infer_data/col)
+![11](https://github.com/tommyMessi/bill_seg/blob/main/img/11.png)
+![22](https://github.com/tommyMessi/bill_seg/blob/main/img/11.png)
 
 ## 其他
 更多分享与该工程问题 关注微信公众账号 hulugeAI 进群讨论 
